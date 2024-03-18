@@ -2,6 +2,11 @@
 
 
 # Resources
+**Python Version:** 3.10.9
+Packages: NumPy, Matplotlib, JSON, Pandas, Keras backend, TensorFlow, scikit-learn, NiBabel, util, public_tests, test_utils
+
+
+
 
 
 # Data Collection
