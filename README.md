@@ -18,6 +18,8 @@ Each of the 484 samples consists of two files. The first file is an image file c
 In regards to the voxel, the first two shape components (240, 240) refer to the MRI image along the transversal plane. The third component is the number of slices (155) of those images. Below is mutiple views of a sample.
 
 ![image](/images/3_View.png)
+
+
 ![image](/images/GIF.png.png)
 
 
