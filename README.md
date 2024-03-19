@@ -14,7 +14,7 @@ Data was provided by the [Decathlon 10 Challenge](https://decathlon-10.grand-cha
 
 
 # EDA
-Each of the 484 training samples consists of two files. The first file is an image file containing a 4D array of MR images of a voxel and specifying one of the four sequences: Fluid Attenuated Inversion Recovery, T1-weighted, T1-weighted with gadolinium contrast enhancement, or T2-weighted. The second file is a 3D array label indicating whether the corresponding voxel is background, edema, non-enhancing tumor, or enhancing tumor.
+Each of the 484 samples consists of two files. The first file is an image file containing a 4D array of MR images of a voxel and specifying one of the four sequences: Fluid Attenuated Inversion Recovery, T1-weighted, T1-weighted with gadolinium contrast enhancement, or T2-weighted. The second file is a 3D array label indicating whether the corresponding voxel is background, edema, non-enhancing tumor, or enhancing tumor.
 
 
 
