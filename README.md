@@ -9,14 +9,17 @@
 
 
 # Data Collection
-Data was provided by the [ChestX-ray8 dataset](https://arxiv.org/abs/1705.02315) which contains 108,948 frontal-view X-ray images of 32,717 unique patients.
+Data was provided by the [Decathlon 10 Challenge](https://decathlon-10.grand-challenge.org/). 
 
 
 
 # EDA
-[A rudimentary Exploratory Data Analysis.](/MRI_CVision_EDA.ipynb) Since plenty of Data Cleaning will be required for image generation, only the labels and class balance were scrutinized. Below is an image of the frequency of pathological conditions among the training, validation, and testing datasets.
+Each of the 484 training samples consists of two files. The first file is an image file containing a 4D array of MR images of a voxel and specifying one of the four sequences: Fluid Attenuated Inversion Recovery, T1-weighted, T1-weighted with gadolinium contrast enhancement, or T2-weighted. The second file is a 3D array label indicating whether the corresponding voxel is background, edema, non-enhancing tumor, or enhancing tumor.
 
-![image](/images/Frequency_of_Pathological_Condition_by_Dataset.png)
+
+
+
+
 
 
 # Data Cleaning
