@@ -13,12 +13,12 @@ Data was provided by the [ChestX-ray8 dataset](https://arxiv.org/abs/1705.02315)
 
 
 
-# Data Cleaning
-
-
-
 # EDA
 
+
+
+# Data Cleaning
+class balancing, etc
 
 
 # Model Building
