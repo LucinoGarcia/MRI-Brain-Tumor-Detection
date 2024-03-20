@@ -30,9 +30,10 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 
 | Bulleted List          | Image                               |
 |------------------------|-------------------------------------|
-| - Item 1               | <img src="/images/3D_U-Net_Model_Diagram.png" alt="3D U-Net Model Diagram" style="width: 100%;"> | \
-| - Item 2               | ^^                                  | \
+| - Item 1               |                                     |
+| - Item 2               | <img src="/images/3D_U-Net_Model_Diagram.png" alt="3D U-Net Model Diagram" style="width: 100%;"> |
 | - Item 3               |                                     |
+
 
 
 
