@@ -28,14 +28,18 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 # Model Building
 
 
-- Item 1
-- Item 2
-- Item 3
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        - Item 1
+        - Item 2
+        - Item 3
+    </div>
+    <div style="flex: 1;">
+        <img src="/images/3D_U-Net_Model_Diagram.png" alt="3D U-Net Model Diagram" style="width: 100%;">
+        <p style="text-align: center;">Figure 1: 3D U-Net Model Diagram</p>
+    </div>
+</div>
 
-<figure>
-  <img src="/images/3D_U-Net_Model_Diagram.png" alt="3D U-Net Model Diagram" style="float: left; margin-left: 20px; width: 20px;">
-  <figcaption>Figure 1: 3D U-Net Model Diagram</figcaption>
-</figure>
 
 
 # Potential Implications
