@@ -26,7 +26,7 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 
 
 # Model Building
-<img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="70px">
+<img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="75px">
 
 A 3D U-Net model for the following reasons:
 - its architecture is specifically designed for volumetric datasets
