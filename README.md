@@ -28,10 +28,16 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 # Model Building
 
 
-| Item |
-|---|---|
-| List item 1 |
-| ![Image description](/images/3D_U-Net_Model_Diagram.png) |
+- Item 1
+- Item 2
+- Item 3
+
+<figure>
+  <img src="/images/3D_U-Net_Model_Diagram.png" alt="3D U-Net Model Diagram" style="float: right; margin-left: 20px; width: 100px;">
+  <figcaption>Figure 1: 3D U-Net Model Diagram</figcaption>
+</figure>
+
+
 
 
 
