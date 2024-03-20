@@ -26,7 +26,7 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 
 
 # Model Building
-<img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="100px">
+<img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="70px">
 
 A 3D U-Net model for the following reasons:
 - its architecture is specifically designed for volumetric datasets
@@ -35,9 +35,12 @@ A 3D U-Net model for the following reasons:
 
 
 The 3D U-Net model's architecture is quite lengthy but it, along with all 16,318,307 of its parameters, [can be seen here](/images/3D_U-Net_Model_Diagram.png) or by clicking the image on the right. The scripting to build the model [can be found here](/Need_Power,_MRI_CVision,_Model_Building.ipynb) <br><br>
-Unfortunetely, limited computing power prohibited local training of the model. Fortunately, a pretained was provided. 
+Unfortunetely, limited computing power prohibited local training of the model. Fortunately, a pretained was provided. The following is a table of its Sensitivity and Specificity.
 
-add the table of specicficity and s
-add the model evauTION NOTEBOOK
+|               | Edema             | Non-Enhancing Tumor | Enhancing Tumor |
+|---------------|-------------------|----------------------|-----------------|
+| Sensitivity   | 0.8746            | 0.9419               | 0.8049          |
+| Specificity   | 0.97              | 0.9957               | 0.9924          |
+
 
 # Potential Implications
