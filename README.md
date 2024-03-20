@@ -26,16 +26,13 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 
 
 # Model Building
+<img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="100px">
 
 
 - Item 1
 - Item 2
 - Item 3
 
-<figure>
-  <img src="/images/3D_U-Net_Model_Diagram.png" alt="3D U-Net Model Diagram" style="float: right; width: 100px;">
-  <figcaption>Figure 1: 3D U-Net Model Diagram</figcaption>
-</figure>
 
 
 
