@@ -27,16 +27,19 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 
 # Model Building
 
-- lots of things
-- lots of things
-- lots of things
-- lots of things
-- lots of things
-- lots of things
-- lots of things
 
-<img align="right" src="/images/3D_U-Net_Model_Diagram.png" alt="Your Image" style="margin-left: 10px; width: 100px;">
 
+
+<div style="display: flex; align-items: center;">
+    <p> - lots of things <br>
+- lots of things <br>
+- lots of things <br>
+- lots of things <br>
+- lots of things <br>
+- lots of things <br>
+- lots of things <br></p>
+    <img align="right" src="/images/3D_U-Net_Model_Diagram.png" alt="Your Image" style="margin-left: 10px; width: 100px;">
+</div>
 
 
 # Potential Implications
