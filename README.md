@@ -28,7 +28,7 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 # Model Building
 <div style="display: flex; align-items: center;">
     <p>Your text here.</p>
-    <img src="/images/3D_U-Net_Model_Diagram.png" alt="Your Image" style="margin-left: 10px;">
+    <img src="/images/3D_U-Net_Model_Diagram.png" alt="Your Image" style="margin-left: 10px; width: 300px;">
 </div>
 
 
