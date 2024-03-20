@@ -34,11 +34,10 @@ A 3D U-Net model for the following reasons:
 - achieves good results with only a couple hundred of samples
 
 
-The 3D U-Net model's architecture is quite lengthy but it, along with all 16,318,307 of its parameters [can be seen here](/images/3D_U-Net_Model_Diagram.png) or by clicking the image on the right. <br><br>
-Unfortunetely, limited computing power restricted the 
+The 3D U-Net model's architecture is quite lengthy but it, along with all 16,318,307 of its parameters, [can be seen here](/images/3D_U-Net_Model_Diagram.png) or by clicking the image on the right. The scripting to build the model [can be found here](/Need_Power,_MRI_CVision,_Model_Building.ipynb) <br><br>
+Unfortunetely, limited computing power prohibited local training of the model. Fortunately, a pretained was provided. 
 
-
-
-
+add the table of specicficity and s
+add the model evauTION NOTEBOOK
 
 # Potential Implications
