@@ -29,12 +29,12 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 <img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="100px">
 
 A 3D U-Net model for the following reasons:
-- its architecture is specifically designed for volumetric data
+- its architecture is specifically designed for volumetric datasets
 - the concatinating of paired down convolutions and upsampling maintain contextual information
-- achieves good results with only a couple of hundred samples
+- achieves good results with only a couple hundred of samples
 
 
-A 3D U-Net model is an extension of the U-Net architecture specifically designed for volumetric data, such as 3D medical images (e.g., MRI, CT scans). It is widely used in various medical image analysis tasks, including segmentation, registration, and detection.
+The 3D U-Net model's architecture is quite lengthy and [can be seen here](/images/3D_U-Net_Model_Diagram.png) or by clicking the image on the right.
 
 
 
