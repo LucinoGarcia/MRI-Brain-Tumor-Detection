@@ -1,4 +1,8 @@
 # MRI Brain Tumor Detection: Project Overview
+- Developed a 3D U-Net model tailored for analyzing MRI data, leveraging its architecture optimized for volumetric datasets.
+- Implemented concatenation of paired-down convolutions and upsampling to preserve contextual information crucial for accurate segmentation.
+- Achieved promising results with a limited dataset, demonstrating the model's potential for medical image analysis tasks.
+- Explored further developments including updating the project for compatibility with the latest version of Keras, acquiring access to more powerful computing resources for training on larger datasets, and expanding the model's generalization capabilities through training on additional MRI datasets.
 
 
 
