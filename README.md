@@ -28,19 +28,20 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 # Model Building
 <img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="78px">
 
-A 3D U-Net model for the following reasons:
-- its architecture is specifically designed for volumetric datasets
-- the concatinating of paired down convolutions and upsampling maintain contextual information
-- achieves good results with only a couple hundred of samples
+A 3D U-Net model is utilized for the following reasons:
+- Its architecture is specifically designed for volumetric datasets.
+- The concatenation of paired-down convolutions and upsampling maintains contextual information.
+- It achieves good results with only a couple of hundred samples.
 
 
-The 3D U-Net model's architecture is quite lengthy but it, along with all 16,318,307 of its parameters, [can be seen here](/images/3D_U-Net_Model_Diagram.png) or by clicking the image on the right. The scripting to build the model [can be found here](/Need_Power,_MRI_CVision,_Model_Building.ipynb) <br><br>
-Unfortunetely, limited computing power prohibited local training of the model. Fortunately, a pretained was provided. The following is a table of its Sensitivity and Specificity.
+The 3D U-Net model's architecture is quite lengthy, but it, along with all 16,318,307 of its parameters, [can be seen here](/images/3D_U-Net_Model_Diagram.png) or by clicking the image on the right. The scripting to build the model [can be found here](/Need_Power,_MRI_CVision,_Model_Building.ipynb) <br><br>
+Unfortunately, limited computing power prohibited local training of the model. Fortunately, a pretrained model was provided. The following table displays its Sensitivity and Specificity:
 
 |                |   Edema           | Non-Enhancing Tumor | Enhancing Tumor |
 |:--------------:|:-----------------:|:--------------------:|:---------------:|
 |  Sensitivity  |       0.8746      |        0.9419        |     0.8049      |
 |  Specificity  |        0.97       |        0.9957        |     0.9924      |
+
 
 
 
