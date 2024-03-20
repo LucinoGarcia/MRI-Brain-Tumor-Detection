@@ -35,7 +35,7 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
         - Item 3
     </div>
     <div style="flex: 1;">
-        <img src="/images/3D_U-Net_Model_Diagram.png" alt="3D U-Net Model Diagram" style="width: 100%;">
+        <img src="/images/3D_U-Net_Model_Diagram.png" alt="3D U-Net Model Diagram" style="width: 40%;">
         <p style="text-align: center;">Figure 1: 3D U-Net Model Diagram</p>
     </div>
 </div>
