@@ -34,8 +34,8 @@ A 3D U-Net model for the following reasons:
 - achieves good results with only a couple hundred of samples
 
 
-The 3D U-Net model's architecture is quite lengthy and [can be seen here](/images/3D_U-Net_Model_Diagram.png) or by clicking the image on the right.
-
+The 3D U-Net model's architecture is quite lengthy but it, along with all 16,318,307 of its parameters [can be seen here](/images/3D_U-Net_Model_Diagram.png) or by clicking the image on the right. <br><br>
+Unfortunetely, limited computing power restricted the 
 
 
 
