@@ -30,8 +30,8 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
-        - Item 1
-        - Item 2
+        - Item 1 <br>
+        - Item 2 <br>
         - Item 3
     </div>
     <div style="flex: 1;">
