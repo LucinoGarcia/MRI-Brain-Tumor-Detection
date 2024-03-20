@@ -45,4 +45,11 @@ Unfortunately, limited computing power prohibited local training of the model. F
 
 
 
-# Potential Implications
+# Further Developments
+Quite a bit of further work can and will be done on this project. Some of those include:
+- Updating the project to ensure compatibility and smoother integration with the latest version of Keras.
+- Obtaining access to a more powerful machine and training on the full dataset.
+- Training the model on additional MRI datasets to enhance its generalization capabilities.
+
+
+
