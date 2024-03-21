@@ -1,8 +1,9 @@
 # MRI Brain Tumor Detection: Project Overview
-- Developed a 3D U-Net model tailored for analyzing MRI data, leveraging its architecture optimized for volumetric datasets.
-- Implemented concatenation of paired-down convolutions and upsampling to preserve contextual information crucial for accurate segmentation.
-- Achieved promising results with a limited dataset, demonstrating the model's potential for medical image analysis tasks.
-- Explored further developments including updating the project for compatibility with the latest version of Keras, acquiring access to more powerful computing resources for training on larger datasets, and expanding the model's generalization capabilities through training on additional MRI datasets.
+- Developed a 3D U-Net model for classifying tumors in DICOM format MRI data.
+- Data was provided by the Decathlon 10 Challenge but required patching and standardization.
+- A 3D U-Net model was chosen for its architecture optimized for volumetric datasets. Soft Dice was used as the loss function, and Dice Coefficient was used as the metric.
+- Utilized both sensitivity and specificity as measures of model evaluation. Sensitivity and specificity varied by samples but typically exceeded 85% sensitivity and 90% specificity.
+- A 3D U-Net model can definitely be utilized for cancerous tissue classification—even with samples in the hundreds. It should generalize nicely after being trained on additional datasets.
 
 
 
