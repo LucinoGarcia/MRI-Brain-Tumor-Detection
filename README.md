@@ -31,7 +31,7 @@ Some rudimentary data cleaning was required, as showcased in [this notebook here
 
 
 # Model Building
-<img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="165px">
+<img align="right" src="/images/3D_U-Net_Model_Diagram.png" width="170px">
 
 A 3D U-Net model is utilized for the following reasons:
 - Its architecture is specifically designed for volumetric datasets.
@@ -46,11 +46,11 @@ Unfortunately, limited computing power prohibited local training of the model. F
 |:--------------:|:-----------------:|:--------------------:|:---------------:|
 |  Sensitivity  |       0.8746      |        0.9419        |     0.8049      |
 |  Specificity  |        0.97       |        0.9957        |     0.9924      |
+<br>
 
-
-
-<img src="/images/UNet_Paths.png" alt="Caption" style="width:75%;" />
 <p>Caption: Generic image of the expanding and contracting paths in a 3D U-Net model</p>
+<img src="/images/UNet_Paths.png" alt="Caption" style="width:75%;" />
+
 
 
 # Further Developments
