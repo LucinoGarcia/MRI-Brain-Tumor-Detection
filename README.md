@@ -50,7 +50,7 @@ Unfortunately, limited computing power prohibited local training of the model. F
 
 
 <img src="/images/UNet_Paths.png" alt="Caption" style="width:75%;" />
-<p align="center">Caption: Generic image of the expanding and contracting paths in a U-Net model</p>
+<p>Caption: Generic image of the expanding and contracting paths in a U-Net model</p>
 
 
 # Further Developments
