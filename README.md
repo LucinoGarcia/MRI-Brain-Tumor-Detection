@@ -48,8 +48,9 @@ Unfortunately, limited computing power prohibited local training of the model. F
 |  Specificity  |        0.97       |        0.9957        |     0.9924      |
 
 
-![Generic image of the expanding and contracting paths in a U-Net model](/images/UNet_Paths.png)
-![Caption](/images/UNet_Paths.png)
+
+<img src="/images/UNet_Paths.png" alt="Caption" style="height:70%;" />
+<p align="center">Caption: Generic image of the expanding and contracting paths in a U-Net model</p>
 
 
 # Further Developments
