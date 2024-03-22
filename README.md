@@ -46,7 +46,7 @@ Unfortunately, limited computing power prohibited local training of the model. F
 |:--------------:|:-----------------:|:--------------------:|:---------------:|
 |  Sensitivity  |       0.8746      |        0.9419        |     0.8049      |
 |  Specificity  |        0.97       |        0.9957        |     0.9924      |
-<br>
+<br><br>
 
 <p>Caption: Generic image of the expanding and contracting paths in a 3D U-Net model</p>
 <img src="/images/UNet_Paths.png" alt="Caption" style="width:75%;" />
